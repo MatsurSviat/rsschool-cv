@@ -15,3 +15,11 @@ I have good interpersonal skills, enabling me to interact with a wide range of p
 <li> Belarusian State University - Lawyer</li>
 <li> Rsscool in progress</li>
 </ul>
+
+## Languages
+<ul>
+ <li>Russian — Native</li>
+ <li>English — C1 — Advanced (Exam passed in the UK Military Academy)</li>
+ <li>German — C1 — Advanced (Exam passed in the Bundessprachenamt)</li>
+ <li>Arabic — A2 — Basic (Exam passed in the Military University)</li>
+</ul>
